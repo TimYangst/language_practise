@@ -41,5 +41,9 @@ for tmp in result:
     print(i)
     print(tmp)
     
+    
+list1 = [1,2,3,4]
+print(len(list1))
+
 
     
